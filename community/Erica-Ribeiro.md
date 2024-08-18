@@ -16,7 +16,7 @@ Em Busca de uma oportunidade para desenvolver e melhorar meus conhecimentos;.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erica-ribeiro-5279b214b)
 
-####🛠 Habilidades
+## 🛠 Habilidades
 
 ![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
 
